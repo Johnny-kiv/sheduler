@@ -11,20 +11,27 @@ if b2 == 0:
 else:
     a4 = a2*60
     b4 = b2*60
-r = 1
-t = 0
-t1 = 0
-print("Работаем")
-while r:
-    for r in range(a4):
-        t = t+1
-        time.sleep(1)
-        print(t)
-    print("\a  \n \t Отдыхаем")
-    t = 0
-    for r in range(b4):
-        t1=t1+1
-        time.sleep(1)
-        print(t1)
-    print("\a Работаем")
-    t1 = 0
+    
+print("Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t Английский язык")
+time.sleep(b4)
+print("\a Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t Cольфеджио ")
+time.sleep(b4)
+print("\a Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t Окружающий мир ")
+time.sleep(b4)
+print("\a Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t Фортепиано ")
+time.sleep(b4)
+print("\a Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t Гитара ")
+time.sleep(b4)
+print("\a Работаем на компьютере")
+time.sleep(a4)
+print("\a  \n \t А теперь спать ")
