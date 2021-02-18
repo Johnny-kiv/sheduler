@@ -1,4 +1,4 @@
-#Это напоминальщик
+#Это тринеровка
 #версия 4
 #Автор: johnny-kiv
 from direct.showbase.ShowBase import ShowBase
