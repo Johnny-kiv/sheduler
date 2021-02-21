@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1594078105"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq &quot;-Fi/home/user/PycharmProjects/sheduler/time 4/lib/x86_64-linux&quot; -Fu/usr/share/lazarus/2.0.10/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.10/lcl/units/x86_64-linux -Fu/usr/share/lazarus/2.0.10/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.10/packager/units/x86_64-linux &quot;-Fu/home/user/PycharmProjects/sheduler/time 4/&quot; &quot;-FU/home/user/PycharmProjects/sheduler/time 4/lib/x86_64-linux/&quot; &quot;-FE/home/user/PycharmProjects/sheduler/time 4/&quot; &quot;-o/home/user/PycharmProjects/sheduler/time 4/project1&quot; -dLCL -dLCLgtk2 project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
